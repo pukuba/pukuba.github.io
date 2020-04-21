@@ -2,5 +2,13 @@
 category_archive_path : " / categories / test "
 tag_archive_path : " / tags / test "
 title: "Welcome to Jekyll!"
-date: 2020-10-20 08:26:28 -0400
-categories: lll
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
+---
+너무어렵다.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
