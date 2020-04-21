@@ -11,6 +11,6 @@
  #- title: about_me
  #  url: /recipes/
  - title: Search
-   url: /search/
+   url: "/search/"
  #- title: External Page
  #  url: https://the-page.com/you-want-to-link-to.html
