@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: "pukuba"
-  name: "pukuba's Programming note"
+author: pukuba
+  name: pukuba's Programming note
   picture:
   email: 
   twitter:
