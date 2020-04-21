@@ -90,10 +90,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: "pukuba"
+  name: "pukuba's programming"
   picture:
-  email:
+  email: 
   twitter:
   links:
     - title:
