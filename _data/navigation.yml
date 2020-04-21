@@ -1,16 +1,16 @@
 # Sample site navigation bar links
 
 - title: Home
-  url: /
+  url: "/"
 - title: Posts
-    url: /posts/
+    url: "/posts/"
 - title: Categories
-  url: /categories/
+  url: "/categories/"
 - title: Tags
-  url: /tags/
+  url: "/tags/"
 - title: Recipes
-  url: /recipes/
+  url: "/recipes/"
 - title: Search
-  url: /search/
+  url: "/search/"
 - title: External Page
-  url: https://the-page.com/you-want-to-link-to.html
+  url: "https://pukuba.github.io"
