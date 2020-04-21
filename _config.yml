@@ -90,15 +90,6 @@ defaults:
       share: true
 
 # Site Author
-author: pukuba
-  name: pukuba's Programming note
-  picture:
-  email: 
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
 
 # Footer Links
 footer_links:
