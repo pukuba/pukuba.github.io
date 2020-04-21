@@ -1,7 +1,7 @@
 ---
 category_archive_path : " / categories / test "
 tag_archive_path : " / tags / test "
-title: "Welcome to Jekyll!"
+title: "카테고리 "
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
