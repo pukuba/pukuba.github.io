@@ -91,6 +91,16 @@ defaults:
 
 # Site Author
 
+#author: 
+#  name: "pukuba's Programming note"
+#  picture:
+#  email: 
+#  twitter:
+#  links:
+#    - title:
+#      url:
+#      icon:
+
 # Footer Links
 footer_links:
   - title: Feed
