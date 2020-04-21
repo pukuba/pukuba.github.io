@@ -72,7 +72,9 @@ search_full_content: true # can have performance implications for large sites
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+layout: category
+taxonomy: "PS"
+entries_layout: "DP"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -86,7 +88,7 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      layout: tags
+      layout: post
       share: true
 
 # Site Author
