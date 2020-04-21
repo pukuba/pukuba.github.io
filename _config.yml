@@ -23,7 +23,7 @@ baseurl: ""
 url: "https://pukuba.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: true
+read_time: false
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: 
-  name: 
+author: 'pukuba'
+  name: 'pukuba_programming'
   picture:
   email: 
   twitter:
