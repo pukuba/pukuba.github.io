@@ -17,8 +17,8 @@ theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "pukuba's programming"
-description: "뉴비의 프로그래밍 메모장"
+title: pukuba's programming
+description: 뉴비의 프로그래밍 메모장
 baseurl: ""
 url: "https://pukuba.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
