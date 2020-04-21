@@ -75,6 +75,7 @@ search_full_content: true # can have performance implications for large sites
 layout: category
 taxonomy: "PS"
 entries_layout: "DP"
+entries_layout: grid
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
