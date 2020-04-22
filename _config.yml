@@ -50,8 +50,9 @@ liquid:
 
 # Build settings
 permalink: /:categories/:title/
-markdown: kramdown:
-  highlighter: rouge
+markdown: kramdown
+kramdown:
+    highlighter: rouge
     syntax_highlighter_opts:
         block:
             line_numbers: true
