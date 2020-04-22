@@ -50,7 +50,12 @@ liquid:
 
 # Build settings
 permalink: /:categories/:title/
-markdown: kramdown
+markdown: kramdown:
+  highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
+
 feed:
   path: atom.xml
 
