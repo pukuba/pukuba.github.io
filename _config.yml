@@ -35,9 +35,9 @@ mathjax:
   tags:  # "none", "ams" (default), "all"
 google_fonts:
   - name: "Nanum Myeongjo"
-    weights: "400,400i,700,700i"
+    weights: "400,400,700,700"
   - name: "Nanum Myeongjo"
-    weights: "400,400i,700,700i"
+    weights: "400,400,700,700"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: "pukus"
