@@ -112,7 +112,8 @@ int main(){
 ### **F - Range Set Query**
 
 다양한 풀이가 있다고하나 저는 모스 알고리즘으로 해결하였습니다.
-https://www.acmicpc.net/problem/13547 이 문제와 같은문제입니다.
+
+[수열과 쿼리 5](https://www.acmicpc.net/problem/13547) 이 문제와 같은문제입니다.
 
 단순하게 모스로 쓱싹짜서 제출하였더니 야주조금 시간초과가 나서 GCC최적화 플래그를 박아 시간초과를 해결하였습니다.
 {% raw %}
