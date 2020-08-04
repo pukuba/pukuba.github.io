@@ -1,5 +1,5 @@
 ---
-title: atcoder ABC174 풀이
+title: AtCoder ABC174 풀이
 layout: post
 tags: AtCoder ABC
 categories: PS
@@ -9,6 +9,7 @@ date: 2020-07-27 03:31:00
 
 # AtCoder Beginner Contest 174 풀이
 
+이번 앳코더 비기너 라운드는 다른 비기너 라운드보다 쉬웠던 것 같습니다.
 ###  **URL** 
 * [AtCoder Beginner Contest 174](https://atcoder.jp/contests/abc174)
 
