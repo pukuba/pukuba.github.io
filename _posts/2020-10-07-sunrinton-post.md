@@ -3,7 +3,7 @@ title: 선린톤 (선린인터넷 고등학교 해커톤) 후기
 layout: post
 tags: Sunrin Hackathon 
 categories: Review
-date: 2020-10-07 13:38:00 
+date: 2020-11-07 13:38:00 
 
 --- 
 
