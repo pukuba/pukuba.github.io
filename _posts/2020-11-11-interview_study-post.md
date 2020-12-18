@@ -2,7 +2,7 @@
 title: 프로그래머 면접질문 - 1
 layout: post
 tags: Interview Study
-categories: Interview
+categories: Review
 date: 2020-11-11 00:38:00 
 
 --- 
