@@ -36,7 +36,7 @@ date: 2020-12-30 22:38:00
 - GraphQL_Example 
     - Node.js, GraphQL
 - Programmers-search + Image-Server
-    - Docker, Nginx, TS, Node.js, GraphQL, Mocha
+    - Docker, Nginx, TypeScript,  GraphQL, Mocha
 - ezurl 
     - REST
 - Server-Performance-Chart
