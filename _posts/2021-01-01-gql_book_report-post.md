@@ -9,9 +9,9 @@ date: 2021-01-01 16:38:00
 
 웹 앱 API 개발을 위한 GraphQL을 읽다.
 
-<div style="display: inline-block">
-    <img src="/images/GQL_Book1.png" height="50%" width="50%">
-    <img src="/images/GQL_Book2.png" height="50%" width="50%">
+<div style="display: inline-block;text-align: center;">
+    <img src="/images/GQL_Book1.png" height="50%" width="49%">
+    <img src="/images/GQL_Book2.png" height="50%" width="49%">
 </div>
 
 > GraphQL을 처음 공부하는 데 있어 매우 좋은 책.
