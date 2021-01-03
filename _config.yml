@@ -24,7 +24,7 @@ url: "https://pukuba.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: 90
+words_per_minute: 70
 # Taxonomy pages
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
@@ -61,8 +61,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
