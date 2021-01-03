@@ -1,5 +1,5 @@
 ---
-title: 앳코더 ABL Flat Subsequence 풀이
+title: 앳코더 Flat Subsequence 풀이
 layout: post
 tags: Segment-Tree AtCoder
 categories: PS
@@ -7,7 +7,7 @@ date: 2021-01-04 05:06:00
 
 --- 
 
-앳코더 비기너 콘테스트 D번
+앳코더 ACL 비기너 콘테스트 D번 (ACL Beginner Contest D)
 
 ###  **문제** 
 * https://atcoder.jp/contests/abl/tasks/abl_d
