@@ -47,7 +47,8 @@ Node.js 14 이상부터는 파일 업로드에 이슈가 있습니다.
 `package.json 파일에 위와 같은 문구를 추가해주고 yarn install 을 하면 이슈를 해결할 수 있습니다.`
 
 
-GraphQL N + 1 Problem, PersistGraphQL 조금더 전문적인부분.
+GraphQL N + 1 Problem, apollo-link-persisted-queries
+ 조금더 전문적인부분.
 
 상황에 따른 GraphQL, REST 어떤게 더 효율적인지 를 알려주었으면 조금더 좋았을거 같았습니다.
 
