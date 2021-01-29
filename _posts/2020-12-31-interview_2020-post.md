@@ -9,74 +9,40 @@ date: 2020-12-30 22:38:00
 
 2020년 올해를 생각하며 정리하는 글.
 
+## 2020 회고
 
-## 대회
-- 선린 인터넷 고등학교 천하제일 코딩대회 (은상)
-- 선린 인터넷 고등학교 정보 알고리즘 경시대회 (동상)
-- 선린 인터넷 고등학교 선린해커톤 (동상)
-- 국민대학교 알고리즘 대회 (장려상)
+2020년에 선린 인터넷 고등학교에 다니게 되고 알고리즘 연구반 동아리에 들어갔다.
 
-이외는 전부 특별상 / 떨
+여러 가지 대회도 나갔으며, 좋은 인맥도 생기고 공부도 많이 한 한해이다.
 
-## 동아리 
+그중 가장 기억에 남는건 GraphQL 열심히 공부한것 & 알고리즘을 열심히 공부한 것이 기억에 남는다.
 
-- 알고리즘 연구부 5기
-    - 여름방학 프로젝트 Lichao Tree 
-    - 겨울방학 프로젝트 유전알고리즘을 이용한 (미정)
+처음에는 node.js 를 하나도 몰랐는데 좋은분과 프로젝트를 같이 진행하게 되면서 많이 배운것 같다.
 
-- POSIX 
-    - 코로나로 인해서 수업을 T.T
+처음 GQL을 사용한 프로젝트: 
+<a href="https://github.com/wnghdcjfe/IUtoon">https://github.com/wnghdcjfe/IUtoon</a>
 
-## 프로젝트 (완료, 진행중)
+최근에 진행한 GQL 프로젝트: <a href="https://github.com/pukuba/programmers-search">https://github.com/pukuba/programmers-search</a>
 
-- Sunrin2020-Hackathon
-    - Node.js, NCP, GraphQL
-- kuutu-helper 
-    - Python
-- GraphQL_Example 
-    - Node.js, GraphQL
-- Programmers-search + Image-Server
-    - Docker, Nginx, TypeScript,  GraphQL, Mocha
-- ezurl 
-    - REST
-- Server-Performance-Chart
-    - TS, REST, ProtoBuf, GraphQL, JEST
-- docker-study, protocol-buffer-study
-    - Docker, TS, Node.js
-- IUToon
-    - Node.js, GraphQL
+시간이 갈수록 코드가 깔끔해져서 좋다.
 
-이외에는 하다가 끝내지못한것, 퀄리티가 낮은것.
+![2020-1](/images/2020-1.png) 
 
-나랑 같이 프로젝트 하는사람이 한명말고 없음.. 속상함... 풀스택이되야함...
+![2020-2](/images/2020-2.png)
 
-친구들하고 같이하는 프로젝트는 나만 열정적으로하고 친구들은 안함.... :(
+1~6월에는 주로 알고리즘을 열심히 했고 7~12월에는 백엔드 관련 공부를 하였다.
 
-## 주로 사용한 기술
+알고리즘을 꾸준하게 공부해야 하는데 2학기에 공부를 느슨하게 해서 대회 성적이 망한 점이 아쉽다.
 
-- MongoDB & MongoDB Atlas
-    - 예전에는 MySQL, SQLite를 사용했는데 최근에는 MongoDB만 사용하는듯... 편함
+아쉬운 점이 딱 하나 있는데 코로나여서 교내대회 대부분을 온라인으로 한 게 너무 아쉽다.
 
-- Naver Cloud Platform 
-    - 이벤트 열때마다 20, 30만원씩 주기때문에 무료로 사용가능한 서버
+선린 해커톤, 천하제일 코딩대회는 오프라인으로 했으면 얼마나 재미있었을까.. 온라인으로 해도 엄청 재밌게 했는데 아주 아쉽다.
 
-- Docker
-    - 너무...편해....
+또한 독서, 드라마를 가장 많이 본 해였던 거 같다. 개발 서적뿐만 아니라 다양한 책을 읽었다.
 
-- GraphQL
-    - 엄청 좋은거같음.. 오버패칭, 언더패칭, 엔드포인트 등등..
-    
-## 아쉬웠던 점
+그중 기억 남는 책은 (1리터의 눈물, 웹 앱 API 개발을 위한 GraphQL, MEVN)
 
-알고리즘을 꾸준히 안함.
-
-주변에 나랑 같이 개발할사람이 없다는게 너무아쉬움.. 맨날 프로젝트 진행하면 나혼자하고 나혼자 기획내는느낌..?
-
-## 좋았던 점
-
-여러가지 기술을 공부함.
-
-좋은 분들과 여러가지 프로젝트를 진행함.
+열심히 지내던 한해이고 2021년은 올해보다 더 바쁘게 지내고 싶다.
 
 ## 2021 목표
 
