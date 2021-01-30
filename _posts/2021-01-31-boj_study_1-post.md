@@ -3,7 +3,7 @@ title: 백준 브루트 포스, 구현 문제풀이
 layout: post
 tags: BFS Brute-force simulation
 categories: PS
-date: 2021-01-04 05:06:00
+date: 2021-01-30 21:06:00
 
 --- 
 
@@ -65,6 +65,6 @@ N의 범위가 8이기 때문에
 <details>
 <summary>백준 17406 배열 돌리기 4</summary>
 K의 범위가 6이하 이기 때문에
-next_permutation() 을 이용하여 모든 순서를 다 만들어 보며 연산을 하여 답을 구할 수 있다.
+next_permutation() 을 이용하여 모든 순서를 다 만든뒤 연산을 하면 답을 구할 수 있다.
 
 </details>
