@@ -24,6 +24,7 @@ date: 2021-01-30 21:06:00
 
 <details>
 <summary>백준 14891 톱니바퀴</summary>
+
 deque을 이용하여서 쉽게 구현이 가능하다.
 
 ``` cpp
@@ -37,7 +38,9 @@ else{
     d.pop_back();
 }
 ```
+
 x를 시계방향으로 회전한다면 x+1, x-1을 반시계 방향으로 회전하는것은 mod 연산을 통해서 쉽게 구할 수 있다.
+
 </details>
 
 <details>
